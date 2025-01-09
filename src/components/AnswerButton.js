@@ -1,8 +1,11 @@
-const AnswerButton = ({ answer }) => {
+const AnswerButton = ({ answer, handleAnswer, bgColor }) => {
   return (
     <>
       <button
+        value={answer}
+        onClick={() => handleAnswer(answer)}
         style={{
+          ...bgColor,
           width: "20%",
           color: "black",
           border: "solid",
