@@ -5,7 +5,7 @@ export const trivia = [
     category: "Entertainment: Television",
     question:
       "What TV show is about a grandfather dragging his grandson around on adventures?",
-    correct_answer: "Rick &amp; Morty",
+    correct_answer: "Rick & Morty",
     incorrect_answers: ["Family Guy", "South Park", "American Dad"],
   },
   {
@@ -21,7 +21,7 @@ export const trivia = [
     type: "multiple",
     difficulty: "easy",
     category: "Entertainment: Television",
-    question: "In Supernatural, what&#039;s is Sam&#039;s brothers name?",
+    question: "In Supernatural, what is Sam's brothers name?",
     correct_answer: "Dean",
     incorrect_answers: ["Dave", "Steve", "Mike"],
   },
@@ -30,7 +30,7 @@ export const trivia = [
     difficulty: "easy",
     category: "Entertainment: Television",
     question:
-      "In &quot;Breaking Bad&quot;, Walter White is a high school teacher diagnosed with which form of cancer?",
+      "In Breaking Bad;, Walter White is a high school teacher diagnosed with which form of cancer?",
     correct_answer: "Lung Cancer",
     incorrect_answers: ["Prostate Cancer", "Brain Cancer", "Testicular Cancer"],
   },
@@ -39,7 +39,7 @@ export const trivia = [
     difficulty: "easy",
     category: "Entertainment: Television",
     question:
-      "Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?",
+      "Which show is known for the songs You are a Pirate, Cooking by the Book and We Are Number One?",
     correct_answer: "LazyTown",
     incorrect_answers: ["Sofia the First", "DuckTales", "Tom and Jerry"],
   },
@@ -57,7 +57,7 @@ export const trivia = [
     difficulty: "easy",
     category: "Entertainment: Television",
     question:
-      "In the show &quot;Dragonball Z&quot;, what is the name of Cell&#039;s most powerful attack?",
+      "In the show Dragonball Z, what is the name of Cell's most powerful attack?",
     correct_answer: "Solar Kamehameha",
     incorrect_answers: [
       "Super Kamehameha",
@@ -70,7 +70,7 @@ export const trivia = [
     difficulty: "easy",
     category: "Entertainment: Television",
     question:
-      "In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?",
+      "In the TV show M*A*S*H, what was the nickname of Corporal Walter OReilly?",
     correct_answer: "Radar",
     incorrect_answers: ["Hawkeye", "Hot Lips", "Trapper"],
   },
@@ -79,7 +79,7 @@ export const trivia = [
     difficulty: "easy",
     category: "Entertainment: Television",
     question:
-      "On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?",
+      "On the show Rick and Morty, in episode Total Rickall, who was a parasite?",
     correct_answer: "Pencilvester",
     incorrect_answers: ["Beth Smith", "Summer Smith", "Mr. Poopy Butthole"],
   },
@@ -88,7 +88,7 @@ export const trivia = [
     difficulty: "easy",
     category: "Entertainment: Television",
     question:
-      "Who played the Waitress in the Spam sketch of &quot;Monty Python&#039;s Flying Circus&quot;?",
+      "Who played the Waitress in the Spam sketch of Monty Python's Flying Circus?",
     correct_answer: "Terry Jones",
     incorrect_answers: ["Eric Idle", "Graham Chapman", "John Cleese"],
   },
@@ -96,7 +96,7 @@ export const trivia = [
     type: "multiple",
     difficulty: "easy",
     category: "Entertainment: Television",
-    question: "Guy&#039;s Grocery Games is hosted by which presenter?",
+    question: "Guy's Grocery Games is hosted by which presenter?",
     correct_answer: "Guy Fieri",
     incorrect_answers: ["Guy Martin", "Guy Ritchie", "Ainsley Harriott"],
   },
@@ -105,7 +105,7 @@ export const trivia = [
     difficulty: "easy",
     category: "Entertainment: Television",
     question:
-      "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+      "In the TV show Cheers, Sam Malone was a former relief pitcher for which baseball team?",
     correct_answer: "Boston Red Sox",
     incorrect_answers: [
       "New York Mets",
@@ -129,8 +129,7 @@ export const trivia = [
     type: "multiple",
     difficulty: "easy",
     category: "Entertainment: Television",
-    question:
-      "On the NBC show Community, whose catch-phrase was &quot;Pop! Pop!&quot;?",
+    question: "On the NBC show Community, whose catch-phrase was Pop! Pop!.?",
     correct_answer: "Magnitude",
     incorrect_answers: ["Star Burns", "Leonard", "Senoir Chang"],
   },
@@ -139,7 +138,7 @@ export const trivia = [
     difficulty: "easy",
     category: "Entertainment: Television",
     question:
-      "How many seasons did the Sci-Fi television show &quot;Stargate Universe&quot; have?",
+      "How many seasons did the Sci-Fi television show Stargate Universe have?",
     correct_answer: "2",
     incorrect_answers: ["10", "5", "3"],
   },
@@ -147,7 +146,7 @@ export const trivia = [
     type: "multiple",
     difficulty: "easy",
     category: "Entertainment: Television",
-    question: "Who is the main character in the show &quot;Burn Notice&quot;?",
+    question: "Who is the main character in the show Burn Notice?",
     correct_answer: "Michael Westen",
     incorrect_answers: ["Sam Axe", "Fiona Glenanne", "Madeline Westen"],
   },
@@ -173,8 +172,7 @@ export const trivia = [
     type: "multiple",
     difficulty: "easy",
     category: "Entertainment: Television",
-    question:
-      "Who was the first ever actor to play &quot;The Doctor&quot; on &quot;Doctor Who&quot;?",
+    question: "Who was the first ever actor to play The Doctor on Doctor Who?",
     correct_answer: "William Hartnell",
     incorrect_answers: ["David Tennant", "Peter Capaldi", "Tom Baker"],
   },
